@@ -1,9 +1,11 @@
 import React from 'react'
+import HomePageForm from './HomePageForm'
+
 
 const HomePage = () => {
     return(
     <div>
-        <h1>HomePage</h1>
+        <HomePageForm/>
     </div>
     )
 }
